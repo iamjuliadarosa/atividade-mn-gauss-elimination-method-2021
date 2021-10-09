@@ -1,0 +1,16 @@
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.exe
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.deps.json
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.runtimeconfig.json
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.runtimeconfig.dev.json
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.dll
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\ref\gauss-elimination-method.dll
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\bin\Debug\net5.0\gauss-elimination-method.pdb
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.csproj.AssemblyReference.cache
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.GeneratedMSBuildEditorConfig.editorconfig
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.AssemblyInfoInputs.cache
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.AssemblyInfo.cs
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.csproj.CoreCompileInputs.cache
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.dll
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\ref\gauss-elimination-method.dll
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.pdb
+J:\repos\ifc\metodosnumericos\eliminationalgorithm\gauss-elimination-method\obj\Debug\net5.0\gauss-elimination-method.genruntimeconfig.cache
